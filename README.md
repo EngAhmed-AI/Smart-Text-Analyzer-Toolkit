@@ -28,3 +28,24 @@ smart_text_analyzer/
 │   ├── sentiment.py      # Lexicon-based sentiment analysis
 │   └── stack.py          # Custom Stack Data Structure
 └── project.py            # CLI Application entry point
+
+
+
+
+🚀 How to Run
+Clone the repository:
+
+Bash
+git clone [https://github.com/EngAhmed-AI/Smart-Text-Analyzer-Toolkit.git](https://github.com/EngAhmed-AI/Smart-Text-Analyzer-Toolkit.git)
+cd Smart-Text-Analyzer-Toolkit
+Run the CLI Application:
+
+Bash
+python project.py
+
+3. اضغط على `File` ⬅️ `Save As`.
+4. اختر نوع الملف `All Files (*.*)` وضع الاسم: **`README.md`** واضغط حفظ.
+
+---
+
+الآن اصبحت الملفات جاهزة بالكامل على جهازك لسحبها ورفعها على GitHub! 🚀
